@@ -58,7 +58,7 @@
               </a>
               <div class="location-div">
                 <span class="other">Other</span>
-                <span class="location">Bangaluru, Karnataka, India</span>
+                <span class="location">Bhimavaram, AndhraPradesh, India</span>
                 <span class="arrow-down">
                   <i class="fa-solid fa-angle-down"></i>
                 </span>
@@ -200,7 +200,7 @@
                         <div class="div-status-title">Promoted</div>
                       </div>
                       <div class="place-name-div">
-                        <div class="name">Krushna Pure Veg</div>
+                        <div class="name">Ganesh canteen</div>
                         <div
                           class="food-items"
                           title="South Indian, Indian, Chinese"
@@ -259,7 +259,7 @@
                         <div class="div-status-title">Promoted</div>
                       </div>
                       <div class="place-name-div">
-                        <div class="name">Chillout-Cafe</div>
+                        <div class="name">Harshith-Cafe</div>
                         <div
                           class="food-items"
                           title="Kebabs, Fast Food, Snacks"
@@ -318,7 +318,7 @@
                         <div class="div-status-title">Promoted</div>
                       </div>
                       <div class="place-name-div">
-                        <div class="name">Punjab Di Rasoi</div>
+                        <div class="name">Bhaskar Restaurent</div>
                         <div class="food-items" title="North Indian, Punjabi">
                           North Indian, Punjabi
                         </div>
@@ -374,7 +374,7 @@
                         <!-- <div class="div-status-title">Promoted</div> -->
                       </div>
                       <div class="place-name-div">
-                        <div class="name">Cafe Diamong Queen</div>
+                        <div class="name">Siva Cafe Diamong Queen</div>
                         <div
                           class="food-items"
                           title="Mughlai, Tandoor, Biryani"
