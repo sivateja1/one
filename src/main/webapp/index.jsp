@@ -200,7 +200,7 @@
                         <div class="div-status-title">Promoted</div>
                       </div>
                       <div class="place-name-div">
-                        <div class="name">Ganesh canteen</div>
+                        <div class="name">SIVA RCB CAFE</div>
                         <div
                           class="food-items"
                           title="South Indian, Indian, Chinese"
@@ -245,7 +245,7 @@
                           alt="Haka"
                           width="254"
                           height="160"
-                          src="https://wallpaperaccess.com/full/1311185.jpg"
+                          src="https://th.bing.com/th?id=OIP.EEV_ZTRvdGP5KW3j3wEchgHaNK&w=187&h=333&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
                         />
                       </div>
                       <div
