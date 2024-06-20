@@ -245,7 +245,7 @@
                           alt="Haka"
                           width="254"
                           height="160"
-                          src="https://www.bing.com/ck/a?!&&p=18422ae523cde03fJmltdHM9MTcxODg0MTYwMCZpZ3VpZD0xZjc0YmY1MC04NDM4LTY3NDItMjNjMy1hYjAwODVkMDY2MGEmaW5zaWQ9NTcyOQ&ptn=3&ver=2&hsh=3&fclid=1f74bf50-8438-6742-23c3-ab0085d0660a&u=a1L2ltYWdlcy9zZWFyY2g_cT12aXJhdCUyMGtvaGxpJTIwaW1hZ2VzJkZPUk09SVFGUkJBJmlkPURBMEZEQTRENEQ5M0FGRjk4M0I2M0Y0OTBBQUJFMUFBQjg0M0Q2OEI&ntb=1"
+                          src="https://wallpaperaccess.com/full/1311185.jpg"
                         />
                       </div>
                       <div
