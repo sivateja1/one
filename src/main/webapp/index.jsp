@@ -360,7 +360,7 @@
                           alt="Haka"
                           width="254"
                           height="160"
-                          src="https://www.bing.com/ck/a?!&&p=c09eebeb4539e33eJmltdHM9MTcxODg0MTYwMCZpZ3VpZD0xZjc0YmY1MC04NDM4LTY3NDItMjNjMy1hYjAwODVkMDY2MGEmaW5zaWQ9NTcyNg&ptn=3&ver=2&hsh=3&fclid=1f74bf50-8438-6742-23c3-ab0085d0660a&u=a1L2ltYWdlcy9zZWFyY2g_cT12aXJhdCUyMGtvaGxpJTIwaW1hZ2VzJkZPUk09SVFGUkJBJmlkPTRBRjZBNDc2QUFDRTJDREExMzI5OEUxOTE2MjAzMTBGQTAwMTE0NDI&ntb=1"
+                          src="https://wallpaperaccess.com/full/1311185.jpg"
                         />
                       </div>
                       <div
@@ -419,7 +419,7 @@
                           alt="Haka"
                           width="254"
                           height="160"
-                          src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/kkffswb4ovfgruyq61m7"
+                          src="https://wallpaperaccess.com/full/1311185.jpg"
                         />
                       </div>
                       <div
