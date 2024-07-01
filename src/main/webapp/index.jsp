@@ -60,7 +60,7 @@
                 <span class="other">Other</span>
                 <span class="location">Bhimavaram, AndhraPradesh, India</span>
                 <span class="arrow-down">
-                  <i class="fa-solid fa-angle-down"></i>
+                  <em class="fa-solid fa-angle-down"></em>
                 </span>
               </div>
             </div>
@@ -210,7 +210,7 @@
                         <div class="info-div">
                           <div class="rating">
                             <span class="icon-star">
-                              <i class="fa-sharp fa-solid fa-star"></i>
+                              <em class="fa-sharp fa-solid fa-star"></em>
                             </span>
                             <span>4.3</span>
                           </div>
@@ -221,7 +221,7 @@
                         </div>
                         <div class="offer-div">
                           <span class="icon-offer-filled">
-                            <i class="fa-solid fa-tag"></i>
+                            <em class="fa-solid fa-tag"></em>
                           </span>
                           <span class="offer-text">
                             50% OFF | Use WELCOME50
@@ -269,7 +269,7 @@
                         <div class="info-div">
                           <div class="rating">
                             <span class="icon-star">
-                              <i class="fa-sharp fa-solid fa-star"></i>
+                              <em class="fa-sharp fa-solid fa-star"></em>
                             </span>
                             <span>4.8</span>
                           </div>
@@ -280,7 +280,7 @@
                         </div>
                         <div class="offer-div">
                           <span class="icon-offer-filled">
-                            <i class="fa-solid fa-tag"></i>
+                            <em class="fa-solid fa-tag"></em>
                           </span>
                           <span class="offer-text">
                             50% OFF | Use WELCOME50
@@ -325,7 +325,7 @@
                         <div class="info-div">
                           <div class="rating">
                             <span class="icon-star">
-                              <i class="fa-sharp fa-solid fa-star"></i>
+                              <em class="fa-sharp fa-solid fa-star"></em>
                             </span>
                             <span>4.1</span>
                           </div>
@@ -336,7 +336,7 @@
                         </div>
                         <div class="offer-div">
                           <span class="icon-offer-filled">
-                            <i class="fa-solid fa-tag"></i>
+                            <em class="fa-solid fa-tag"></em>
                           </span>
                           <span class="offer-text">
                             50% OFF | Use WELCOME50
@@ -384,7 +384,7 @@
                         <div class="info-div">
                           <div class="rating-less">
                             <span class="icon-star">
-                              <i class="fa-sharp fa-solid fa-star"></i>
+                              <em class="fa-sharp fa-solid fa-star"></em>
                             </span>
                             <span>3.8</span>
                           </div>
@@ -395,7 +395,7 @@
                         </div>
                         <div class="offer-div">
                           <span class="icon-offer-filled">
-                            <i class="fa-solid fa-tag"></i>
+                            <em class="fa-solid fa-tag"></em>
                           </span>
                           <span class="offer-text">
                             50% OFF | Use WELCOME50
@@ -451,7 +451,7 @@
                         </div>
                         <div class="offer-div">
                           <span class="icon-offer-filled">
-                            <i class="fa-solid fa-tag"></i>
+                            <em class="fa-solid fa-tag"></em>
                           </span>
                           <span class="offer-text">
                             50% OFF | Use WELCOME50
@@ -499,7 +499,7 @@
                         <div class="info-div">
                           <div class="rating">
                             <span class="icon-star">
-                              <i class="fa-sharp fa-solid fa-star"></i>
+                              <em class="fa-sharp fa-solid fa-star"></em>
                             </span>
                             <span>4.0</span>
                           </div>
@@ -510,7 +510,7 @@
                         </div>
                         <div class="offer-div">
                           <span class="icon-offer-filled">
-                            <i class="fa-solid fa-tag"></i>
+                            <em class="fa-solid fa-tag"></em>
                           </span>
                           <span class="offer-text">
                             50% OFF | Use WELCOME50
@@ -555,7 +555,7 @@
                         <div class="info-div">
                           <div class="rating">
                             <span class="icon-star">
-                              <i class="fa-sharp fa-solid fa-star"></i>
+                              <em class="fa-sharp fa-solid fa-star"></em>
                             </span>
                             <span>4.3</span>
                           </div>
@@ -566,7 +566,7 @@
                         </div>
                         <div class="offer-div">
                           <span class="icon-offer-filled">
-                            <i class="fa-solid fa-tag"></i>
+                            <em class="fa-solid fa-tag"></em>
                           </span>
                           <span class="offer-text">
                             50% OFF | Use WELCOME50
@@ -611,7 +611,7 @@
                         <div class="info-div">
                           <div class="rating">
                             <span class="icon-star">
-                              <i class="fa-sharp fa-solid fa-star"></i>
+                              <em class="fa-sharp fa-solid fa-star"></em>
                             </span>
                             <span>4.1</span>
                           </div>
@@ -622,7 +622,7 @@
                         </div>
                         <div class="offer-div">
                           <span class="icon-offer-filled">
-                            <i class="fa-solid fa-tag"></i>
+                            <em class="fa-solid fa-tag"></em>
                           </span>
                           <span class="offer-text">
                             50% OFF | Use WELCOME50
