@@ -245,7 +245,7 @@
                           alt="Haka"
                           width="254"
                           height="160"
-                          src="https://th.bing.com/th/id/R.34c83061922006e40a2fc6bcb5bc410c?rik=6izxpFhVe71luA&riu=http%3a%2f%2fwww.businessinsider.in%2fthumb%2fmsid-53156217%2cwidth-600%2cresizemode-4%2fVirat-Kohli-The-Entrepreneur.jpg&ehk=wtsfsOpzBMtUTiM%2frqmhOjiDaM9quluYhKaGF4ftoPk%3d&risl=&pid=ImgRaw&r=0"
+                          src="https://images.news18.com/ibnlive/uploads/2022/12/virat-kohli-celebrates-his-44th-odi-ton-ap-photo-167066553516x9.jpg"
                         />
                       </div>
                       <div
