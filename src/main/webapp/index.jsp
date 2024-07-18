@@ -360,7 +360,7 @@
                           alt="Haka"
                           width="254"
                           height="160"
-                          src="https://wallpaperaccess.com/full/1311185.jpg"
+                          src="https://images.pexels.com/photos/443446/pexels-photo-443446.jpeg?cs=srgb&dl=snow-landscape-mountains-443446.jpg&fm=jpg"
                         />
                       </div>
                       <div
