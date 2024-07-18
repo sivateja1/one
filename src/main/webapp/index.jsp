@@ -245,7 +245,7 @@
                           alt="Haka"
                           width="254"
                           height="160"
-                          src="https://wallpaperaccess.com/full/1311185.jpg"
+                          src="https://th.bing.com/th/id/R.34c83061922006e40a2fc6bcb5bc410c?rik=6izxpFhVe71luA&riu=http%3a%2f%2fwww.businessinsider.in%2fthumb%2fmsid-53156217%2cwidth-600%2cresizemode-4%2fVirat-Kohli-The-Entrepreneur.jpg&ehk=wtsfsOpzBMtUTiM%2frqmhOjiDaM9quluYhKaGF4ftoPk%3d&risl=&pid=ImgRaw&r=0"
                         />
                       </div>
                       <div
