@@ -304,7 +304,7 @@
                           alt="Haka"
                           width="254"
                           height="160"
-                          src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/3e958364749c3013e178c7472110fc93"
+                          src="D:\TEJA\20231112_172308.jpg"
                         />
                       </div>
                       <div
