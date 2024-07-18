@@ -186,7 +186,7 @@
                           alt="Haka"
                           width="254"
                           height="160"
-                          src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ohrooroghiooqsfytjri"
+                          src="https://th.bing.com/th/id/OIP.F0WOvu98HPRwrJ8qto0CPQHaNK?rs=1&pid=ImgDetMain"
                         />
                       </div>
                       <div
