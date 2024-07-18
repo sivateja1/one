@@ -186,7 +186,7 @@
                           alt="Haka"
                           width="254"
                           height="160"
-                          src="https://th.bing.com/th/id/OIP.F0WOvu98HPRwrJ8qto0CPQHaNK?rs=1&pid=ImgDetMain"
+                          src="https://sportscafe.in/img/es3-cfill-w800-h418/articles/Cricket_1/Virat_Kohli_IND_vs_AFG_ICC.jpg"
                         />
                       </div>
                       <div
