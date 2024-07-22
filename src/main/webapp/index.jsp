@@ -175,7 +175,7 @@
                 <div class="cost-hl">Cost: High to Low</div>
               </div>
             </div>
-            <div class="restraurant-list">
+            <div class="restraurants-list">
               <div class="place">
                 <a href="#" class="place-link">
                   <div class="list-item">
